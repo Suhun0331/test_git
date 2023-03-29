@@ -1,12 +1,12 @@
-// 두 번째 가상환경
+// 첫 번째 가상환경
 
-// 세 번째 커밋
+// 충돌 테스트
 
 #include <iostream>
 
 using namespace std;
 
 int main() {
-    cout << "두 번째 환경에서 세 번째로 등록한 코드입니다. " << endl;
+    cout << "첫 번째 가상환경 - 충돌이 일어날 구간입니다. " << endl;
     return 0;
 }
